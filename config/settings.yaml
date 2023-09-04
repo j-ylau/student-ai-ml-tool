@@ -1,0 +1,4 @@
+data:
+  raw_data_path: '../data/raw_data.csv'
+  cleaned_data_path: '../data/cleaned_data.csv'
+  processed_data_path: '../data/processed_data.csv'
